@@ -1,0 +1,34 @@
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-dark .navbar-toggler-icon {
+    background-color: white;
+}
+.navbar-dark .navbar-brand {
+    margin-right: auto;
+}
+.navbar-toggler {
+    order: 1;
+}
+.navbar-nav.order-2 {
+    order: 2;
+    margin-right: 0;
+}
+.footer-dark {
+    background-color: #343a40;
+    color: white;
+}
+.footer-dark a {
+    color: white;
+}
+.a-btn-link{
+    margin: 0;
+    padding: 0;
+}
+col{
+    margin: 0;
+    padding: 0;
+
+}
